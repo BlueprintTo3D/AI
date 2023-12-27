@@ -1,0 +1,39 @@
+# Original code
+HandToBlueprint/file_change/pytorch-hed-master/
+HandToBlueprint/torch_learning/pytorch-CycleGAN-and-pix2pix-master/
+
+
+# Ignore directory
+backup/Babylon/
+backup/FloorplanToBlender3d_origin/
+backup/own_test/
+backup/Pix2pix/
+backup/pytorch-CycleGAN-and-pix2pix/
+backup/pytorch-hed/
+backup/Stable_diffusion/
+backup/unreal_test_API/
+
+
+# Security
+R-zipp/resources/security/
+
+
+# Data
+R-zipp/Statics/
+R-zipp/Resources/
+
+Docs/
+
+
+# Files
+*.fbx
+*.glb
+*.gltf
+*.blend
+*.json
+*.pt
+*.bin
+
+
+# etc
+__pycache__/
